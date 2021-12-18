@@ -3095,6 +3095,7 @@
 #include "code\modules\species\station\human_bodytypes.dm"
 #include "code\modules\species\station\monkey.dm"
 #include "code\modules\species\station\monkey_bodytypes.dm"
+#include "code\modules\spells\ability_granter.dm"
 #include "code\modules\spells\artifacts.dm"
 #include "code\modules\spells\construct_spells.dm"
 #include "code\modules\spells\contracts.dm"

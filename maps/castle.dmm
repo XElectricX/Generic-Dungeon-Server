@@ -1,0 +1,111 @@
+"aa" = (/turf/simulated/floor/wood,/area/space)
+"aC" = (/obj/effect/floor_decal/industrial/warning{dir = 6},/obj/structure/railing,/turf/simulated/floor/tiled/techfloor,/area/space)
+"bx" = (/obj/effect/floor_decal/industrial/warning{dir = 6},/turf/simulated/floor/tiled/techfloor,/area/space)
+"bE" = (/obj/structure/rack,/obj/item/storage/firstaid/regular,/obj/item/storage/firstaid/regular,/obj/item/storage/firstaid/regular,/turf/exterior/grass,/area/space)
+"ci" = (/obj/machinery/door/window/northleft,/turf/simulated/floor/wood,/area/space)
+"de" = (/turf/unsimulated/mineral,/area/space)
+"do" = (/obj/structure/flora/tree/pine/xmas,/turf/simulated/floor/tiled/techfloor,/area/space)
+"ea" = (/mob/living/simple_animal/hostile/retaliate/goat,/turf/exterior/grass,/area/space)
+"ez" = (/obj/structure/fitness/punchingbag,/turf/simulated/floor/wood,/area/space)
+"fg" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
+"fP" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/space)
+"ht" = (/obj/structure/flora/ausbushes/stalkybush,/turf/exterior/grass,/area/space)
+"hI" = (/mob/living/simple_animal/hostile/retaliate/goat,/obj/structure/flora/ausbushes/stalkybush,/turf/exterior/grass,/area/space)
+"ij" = (/mob/living/simple_animal/hostile/tree,/turf/exterior/grass,/area/space)
+"iA" = (/mob/living/simple_animal/hostile/retaliate/goat/guard,/obj/structure/flora/ausbushes/pointybush,/turf/exterior/grass,/area/space)
+"iZ" = (/obj/machinery/floodlight,/obj/effect/floor_decal/industrial/hatch/yellow,/obj/structure/railing,/obj/structure/railing{dir = 4; pixel_x = -28; pixel_y = 5},/obj/structure/railing{dir = 8; pixel_x = 28; pixel_y = 5},/turf/simulated/floor/tiled/techfloor,/area/space)
+"kO" = (/obj/structure/sign/goldenplaque,/turf/simulated/wall/wood,/area/space)
+"kY" = (/obj/structure/rack,/obj/item/flashlight/lantern,/obj/item/flashlight/lantern,/obj/item/flashlight/lantern,/turf/exterior/grass,/area/space)
+"lX" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/vending/tool,/turf/simulated/floor/wood,/area/space)
+"mq" = (/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
+"mW" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/wood,/area/space)
+"pH" = (/obj/effect/floor_decal/industrial/warning/corner,/turf/simulated/floor/tiled/techfloor,/area/space)
+"pM" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/wood,/area/space)
+"qG" = (/obj/structure/flora/ausbushes/sunnybush,/turf/exterior/grass,/area/space)
+"rp" = (/obj/effect/floor_decal/industrial/warning{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/space)
+"wj" = (/obj/effect/floor_decal/spline/plain/grey{dir = 1},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"wz" = (/mob/living/simple_animal/hostile/retaliate/goat/guard,/obj/structure/flora/ausbushes/stalkybush,/turf/exterior/grass,/area/space)
+"xt" = (/obj/structure/railing,/turf/exterior/grass,/area/space)
+"yD" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/vending/weeb,/turf/simulated/floor/wood,/area/space)
+"zp" = (/obj/structure/flora/ausbushes/pointybush,/turf/exterior/grass,/area/space)
+"zH" = (/mob/living/simple_animal/hostile/retaliate/goat/guard,/turf/exterior/grass,/area/space)
+"Ad" = (/mob/living/simple_animal/hostile/scarybat,/turf/exterior/grass,/area/space)
+"AK" = (/obj/effect/floor_decal/spline/plain/grey,/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"BH" = (/obj/structure/curtain/open/privacy,/turf/simulated/floor/wood,/area/space)
+"CQ" = (/mob/living/simple_animal/hostile/retaliate/goat/guard/master,/turf/exterior/grass,/area/space)
+"CS" = (/turf/exterior/grass,/area/space)
+"EF" = (/mob/living/simple_animal/hostile/retaliate/goat,/obj/structure/flora/ausbushes/pointybush,/turf/exterior/grass,/area/space)
+"Fj" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/vending/tool,/turf/simulated/floor/wood,/area/space)
+"Fs" = (/turf/simulated/wall/wood,/area/space)
+"FG" = (/mob/living/simple_animal/hostile/retaliate/goat/guard/master,/obj/structure/flora/ausbushes/stalkybush,/turf/exterior/grass,/area/space)
+"Gi" = (/turf/simulated/floor/tiled/techfloor,/area/space)
+"GN" = (/obj/effect/floor_decal/industrial/warning{dir = 10},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Jb" = (/obj/structure/fitness/weightlifter,/turf/simulated/floor/wood,/area/space)
+"Je" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
+"PF" = (/obj/effect/floor_decal/industrial/warning{dir = 5},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Rq" = (/obj/machinery/vending/tool,/turf/simulated/floor/wood,/area/space)
+"Ru" = (/obj/structure/rack,/obj/item/shield/riot/metal,/obj/item/shield/riot/metal,/obj/item/shield/riot/metal,/turf/exterior/grass,/area/space)
+"Sa" = (/obj/effect/floor_decal/industrial/warning,/turf/simulated/floor/tiled/techfloor,/area/space)
+"Sb" = (/obj/machinery/cryopod,/obj/effect/floor_decal/industrial/outline/grey,/turf/simulated/floor/plating,/area/space)
+"Se" = (/obj/machinery/vending/weeb,/turf/simulated/floor/wood,/area/space)
+"Sx" = (/obj/effect/floor_decal/industrial/warning{dir = 9},/turf/simulated/floor/tiled/techfloor,/area/space)
+"SO" = (/obj/effect/floor_decal/industrial/warning{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Tz" = (/obj/machinery/vending/fashionvend,/turf/simulated/floor/wood,/area/space)
+"UK" = (/mob/living/simple_animal/hostile/retaliate/goat,/obj/structure/flora/ausbushes/sunnybush,/turf/exterior/grass,/area/space)
+"Vg" = (/obj/structure/pit/closed/grave,/obj/structure/gravemarker,/turf/exterior/grass,/area/space)
+"Vr" = (/obj/effect/floor_decal/industrial/warning{dir = 10},/obj/structure/railing,/turf/simulated/floor/tiled/techfloor,/area/space)
+"Wz" = (/mob/living/simple_animal/hostile/retaliate/goat/king,/turf/exterior/grass,/area/space)
+"Zt" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/vending/weeb,/turf/simulated/floor/wood,/area/space)
+
+(1,1,1) = {"
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedededededeCSCSijdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedededeCSCSCSCSqGCSdededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededeCSqGCShtCSCSCSzpdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededeAdCSCSAdCSAdCSAdCShtCSdedededededededededeCSqGCSdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedeVgCSVgCSVgCSVgCSCSCSAdCSCSdedededededededehtCSCSCShtdededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedeVgCSVgAdVgCSVgAdhtCSCSCSqGCSCSdededeCSCSCSCSCSzpCSCSCSdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedeVgAdVgCSVgAdVgCSCSCSCSdeCSCSCSzpCSCSqGCSCSCSCSdeCSCSqGCSdedededededededededededededededededededededeCSCSCSzpCSdedededededededededededededededededededededededededededededededededededededededededede
+dedeVgCSVgCSVgCSVgCSzpAddededeCShtCSCSCSCShtdededededeCSCSCSdededededededededededededededededededededezpzHqGCSCSCSqGCSdedededededededededededededededededededededededededededededededededededededededede
+dededeAdCSCSAdCSCSAddededededededededededededededededezpCSCSCSdededededededededededededededededededeCSCSCSCSCQCSWzCSCSCSdededededededededededededededededededededededededededededededededededededededede
+dededededeCSCShtdedededededededededededededededededededehtCSCSzpCSCSdededededededededededededededeqGCSCQhtCSCSCShtCSzHCSdededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededeCSCSCSCSCSCSzpdedededededededededededeCSCSCSCSCSzHqGCSCSCSCSqGdededededededededededededededededededededededededededededededededededededededede
+dedededededededededededededededeRubEkYdededededededededededeCSCShtCSCShteaCSdedededededededededeCSzHCSqGCSCSCQCSiACSCQCSCSdedededededededededededededededededededededededededededededededededededededede
+dedeFsFsFsFsFsFsFsFsFsFsFsdeCSCSCSCSqGCSdedededededededeCSqGCSCSCSCSeaCSCSeaqGdedededededededehtCSCSCQCSzHCSCSCSCSCSCSCSCSdedededededededededededededededededededededededededededededededededededededede
+dedeFsTzFsTzFsTzFsSbSbSbFsCSCShtCSCSCSCShtdedededededehtCSCSCSCSCSqGCSCSCSCSCSeadededededededeCSCSqGCSzpCSCSwzCSqGCQCShtCSdedededededededededededededededededededededededededededededededededededededede
+dedeFsaaFsaaFsaaFswjwjwjFsCSCSxtCSCSCSxtCSCSdedededezpCSCSCSzpCSdedezpCShICSCSCSzpdededededeCSqGCQCSCSCSFGCSCSCQCSCSCSCSdededededededededededededededededededededededededededededededededededededededede
+dedeFsBHFsBHFsBHFsAKAKAKFshtCSiZSxmqPFiZCSCSzpdedeCSCSCShtCSdedededededeCSCSqGeaCSCSUKdedezpCSCSCSCShICSCSCSCSCSCSwzCSCSdededededededededededededededededededededededededededededededededededededededede
+dedeFsaaaaaaaaaaaaaaaaaaaaCSCSSxJeGifgPFCSCSCSCSCSCSqGCSCSdedededededededeCSeaCSCSCSCSCShICSzHCSCSCSCSzHqGCSzHqGCSCSCSdedededededededededededededededededededededededededededededededededededededededede
+dedeFsaaezaaaaJbaaaaaaaaaaCSCSrpGidoGiSOCShtCSCSCShtCSCSdedededededededededezpCShICSCSCSCSCSCSCShtCQCSCSCSCSCSCSCSdedededededededededededededededededededededededededededededededededededededededededede
+dedeFsaaaaaaaaaaaaaaaaaaaaCSCSVrfPGipHaCCSCSCSqGCSCSdedededededededededededededeCSqGeaCSCSeaqGeaCSCSqGCSCSdedededededededededededededededededededededededededededededededededededededededededededededede
+dedeFscipMmWcikOcipMmWciFszpCSiZGNSabxiZCSzpCSdededededededededededededededededededeCSCSqGCSCSCSCSdedededededededededededededededededededededededededededededededededededededededededededededededededede
+dedeFsSeFjyDRqFsRqZtlXSeFsCSCSCSCSCSCSCSCSCSdededededededededededededededededededededededeCSEFCSdededededededededededededededededededededededededededededededededededededededededededededededededededede
+dedeFsFsFsFsFsFsFsFsFsFsFsCSCSCSqGCSCShtCSdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+dededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededede
+"}
